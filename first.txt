@@ -1,1 +1,2 @@
-welcome to git
+welcome to git.
+we push our project on guthub.com
